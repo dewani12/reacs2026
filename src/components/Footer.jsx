@@ -10,7 +10,7 @@ function Footer() {
         <div className="w-full md:w-1/3">
             <div className="text-xl">ReACS</div>
             <div className="mt-3">2026 International Conference on Recent Advances in Computing and Systems</div>
-            <div className="mt-2">xx-xx December 2026 &#x2022; ABV-IIITM Gwalior, India</div>
+            <div className="mt-2">13-14 November 2026 &#x2022; ABV-IIITM Gwalior, India</div>
           </div>
           <div className="w-full md:w-1/6">
             <div className="text-xl">Useful Links</div>

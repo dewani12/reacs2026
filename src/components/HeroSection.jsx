@@ -91,7 +91,7 @@ function HeroSection() {
             2026 International Conference on Recent Advances in Computing and Systems
           </p>
           <p className="mt-4 tracking-wider text-sm md:text-lg text-white text-center font-bold">
-            xx-xx December 2026 &#x2022; ABV-IIITM Gwalior, India
+            13-14 November 2026 &#x2022; ABV-IIITM Gwalior, India
           </p>
           {/* <p className="mt-4 tracking-wider text-sm md:text-lg text-white text-center font-bold">
             Conference Successfully Concluded
