@@ -80,12 +80,12 @@ function HeroSection() {
 
         {/* Hero Content */}
         <div className="relative max-w-7xl flex flex-col justify-center text-justify mx-auto pt-14 md:pt-10 lg:pt-12">
-          <div className='flex justify-center lg:mb-4'>
-            <img 
+          <div className='flex justify-center py-20'>
+            {/* <img 
               src={ReACE_logo} 
               alt="IIIT Logo" 
               className="h-auto w-[200px] md:w-[300px] object-contain"
-            />
+            /> */}
           </div>
           <p className="text-md tracking-wider md:text-xl text-white text-center max-w-4xl mx-auto font-semibold">
             2026 International Conference on Recent Advances in Computing and Systems
